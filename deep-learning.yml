@@ -1,4 +1,4 @@
-name: tf-lab
+name: deep-learning 
 channels:
 - https://conda.binstar.org/menpo
 - anaconda-fusion
@@ -86,4 +86,4 @@ dependencies:
   - tensorflow==1.0.0
   - tensorflow-gpu==1.0.0
   - tflearn==0.3
-prefix: /Users/sahilmalhotra/anaconda/envs/tf-lab
+prefix: /Users/sahilmalhotra/anaconda/envs/deep-learning
